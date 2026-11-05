@@ -96,7 +96,7 @@ For an in-depth breakdown of system routing, surround configuration, track freez
 ##  Credits & Acknowledgments
 
 Created with love by **AMK**.
-* Inspiration & Credits: **Brendan Patrick Baker**,** Daniel Kharrat**,** Mpl**, **8Icio**, **FeedTheCat** and **SoundKajiya**
+* Inspiration & Credits: **Brendan Patrick Baker**, **Daniel Kharrat**, **Mpl**, **8Icio**, **FeedTheCat** and **SoundKajiya**
 * Special thanks to the REAPER scripting community.
 * All right reserved to Cockos Incorporated for REAPER base platform.
 
