@@ -21,9 +21,10 @@ Watch the official overview video to see **Pro Per** in action:
 
 ## Screenshots
 
-| Pro Tools Ultimate GUI & Transport | 
+| Pro Per GUI & Transport | 
 | :---: |
 | ![Pro Per Main View](docs/Toolbar.png) | 
+| Floating Mixer | 
 | :---: |
 ![AM Floating Mixer](docs/Floating_Mixer.png) |
 
