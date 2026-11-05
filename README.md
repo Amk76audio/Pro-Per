@@ -21,9 +21,10 @@ Watch the official overview video to see **Pro Per** in action:
 
 ## Screenshots
 
-| Pro Tools Ultimate GUI & Transport | Advanced Parallel Mixers |
-| :---: | :---: |
-| ![Pro Per Main View](docs/Toolbar.png) | ![AM Floating Mixer](docs/images/floating_mixers.png) |
+| Pro Tools Ultimate GUI & Transport | 
+| :---: |
+| ![Pro Per Main View](docs/Toolbar.png) | 
+![AM Floating Mixer](docs/images/floating_mixers.png) |
 
 | Emulated True QuickPunch (Lanes) | Perfect Timing (Beat Detective Integration) |
 | :---: | :---: |
