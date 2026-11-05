@@ -25,7 +25,7 @@ Watch the official overview video to see **Pro Per** in action:
 | :---: |
 | ![Pro Per Main View](docs/Toolbar.png) | 
 | :---: |
-![AM Floating Mixer](docs/images/Floating_Mixer.png) |
+![AM Floating Mixer](docs/Floating_Mixer.png) |
 
 | Emulated True QuickPunch (Lanes) | Perfect Timing (Beat Detective Integration) |
 | :---: | :---: |
