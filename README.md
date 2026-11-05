@@ -27,9 +27,9 @@ Watch the official overview video to see **Pro Per** in action:
 | Floating Mixer | 
 ![AM Floating Mixer](docs/Floating_Mixer.png) |
 | Emulated True QuickPunch (Lanes) |
-| ![QuickPunch Lanes](docs/images/quickpunch_lanes.png) |
+| ![QuickPunch Lanes](docs/quickpunch_lanes.png) |
 | Perfect Timing (Beat Detective Integration) |
-|![Audio Quantizer](docs/images/beat_detective.png) |
+|![Audio Quantizer](docs/beat_detective.png) |
 
 *(Note: Replace `docs/images/...` paths above with the actual relative paths of your screenshots uploaded to GitHub)*
 
