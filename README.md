@@ -98,10 +98,20 @@ Created with love by **AMK**.
 * Special thanks to the REAPER scripting community (**MPL**, **SWS team**, **Cockos**).
 * All right reserved to Cockos Incorporated for REAPER base platform.
 
-## Download e Installazione
+## How to Get Pro Per
 
-Poiché **Pro Per** è attualmente in fase di testing privato (Beta 1.7.83), il pacchetto completo di installazione è ospitato separatamente.
+**Pro Per (Beta 1.7.83)** is currently distributed as an exclusive release for audio engineers, mixers, and post-production professionals. 
 
-[👉 Scarica Pro Per Beta (ZIP su Google Drive)](https://tuo-link-google-drive-o-mega)
+To protect the ongoing development of the custom Lua scripting engine and maintain a direct channel with active beta testers, the setup files are delivered personally upon request.
 
-> **Nota per i tester:** Il repository GitHub rimane privato per proteggere lo sviluppo degli script interni. Per segnalare bug o richiedere accesso completo, contatta lo sviluppatore.
+### Request Access via Instagram
+
+If you want to try the configuration, test the Pro Tools workflow engine inside REAPER 7, or report feedback:
+
+1. Send a Direct Message (DM) on Instagram: **[@andreamk76](https://instagram.com/andrea_mk76)**
+2. Mention your main use case (e.g., Music Production, Film Post-Production, Tracking/Editing).
+3. You will receive the direct download link for the full configuration package and installation guide.
+
+---
+
+> **Note for Testers:** Community feedback is essential to refining the workflow. Feel free to send your impressions, custom action requests, or bug reports directly via DM!
