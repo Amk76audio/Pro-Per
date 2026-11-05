@@ -97,3 +97,11 @@ For an in-depth breakdown of system routing, surround configuration, track freez
 Created with love by **AMK**.
 * Special thanks to the REAPER scripting community (**MPL**, **SWS team**, **Cockos**).
 * All right reserved to Cockos Incorporated for REAPER base platform.
+
+## Download e Installazione
+
+Poiché **Pro Per** è attualmente in fase di testing privato (Beta 1.7.83), il pacchetto completo di installazione è ospitato separatamente.
+
+[👉 Scarica Pro Per Beta (ZIP su Google Drive)](https://tuo-link-google-drive-o-mega)
+
+> **Nota per i tester:** Il repository GitHub rimane privato per proteggere lo sviluppo degli script interni. Per segnalare bug o richiedere accesso completo, contatta lo sviluppatore.
