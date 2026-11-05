@@ -11,7 +11,7 @@
 
 ---
 
-## 🎬 Overview & Presentation
+## Overview & Presentation
 
 Watch the official overview video to see **Pro Per** in action:
 
@@ -19,7 +19,7 @@ Watch the official overview video to see **Pro Per** in action:
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
 | Pro Tools Ultimate GUI & Transport | Advanced Parallel Mixers |
 | :---: | :---: |
@@ -33,32 +33,32 @@ Watch the official overview video to see **Pro Per** in action:
 
 ---
 
-## 🔥 Key Features & Historical Fixes
+##  Key Features & Historical Fixes
 
-### 🎙️ 1. Emulated True QuickPunch Engine
+###  1. Emulated True QuickPunch Engine
 Built natively on REAPER’s **Fixed Item Lanes** system to achieve genuine Pro Tools Tape Auto monitoring and seamless background recording:
 * **Tape Auto Monitoring:** Mutes live inputs during playback and unmutes automatically at punch-in.
 * **Background Pass Retention:** Non-destructive capture from Play to Stop. Retrieve pre/post audio by simply trimming item edges.
 * **Safety Reference Lanes (`!OR`):** Automatic backup of raw continuous passes preserved below your active comp/punch lanes.
 
-### 🎛️ 2. Control Tracks & Advanced Routing Architecture
+###  2. Control Tracks & Advanced Routing Architecture
 * **Hidden Control Layer (`SND`, `SC`, `HPS`):** Clean up your main track view. Track sends generate background control tracks that move magnetically with their parent tracks.
 * **RealmGui Send Floating Faders:** Control sends, sidechains, and cue mixes via ultra-responsive floating popup faders.
 * **Dedicated HP Master Cue Buses:** Isolated headphone monitoring setups with dedicated artist soloing (`Hs`).
 * **Contextual Folder Generation & Session Import:** Direct routing setups upon folder creation and a custom MPL-forked *Import Session Data* dialog.
 
-### 🛠️ 3. Edit Modes & Smart Tools
+###  3. Edit Modes & Smart Tools
 * **Contextual Smart Tool:** Seamless switching between Trim, Selector, and Grabber based on mouse height over the track lane.
 * **Pro Tools Transport & Numeric Keypad Mapping:** Full mirror mapping of classic numeric keypad operations (0: Play/Stop, 1-2: Fast Forward/Rewind, 3: Punch-in/out, etc.).
 * **Edit Modes:** Dedicated buttons for Slip, Spot (with numerical dialog), Grid, and Dual-Stage Shuffle (Per-track / All-tracks).
 
-### 🧊 4. Advanced CPU & Freeze Workflow
+###  4. Advanced CPU & Freeze Workflow
 * **Smart Freeze & Visual Tagging:** Freeze up to a specific plugin insert chain. Tracks display status indicators (`Ed` for Edits, `fx` for Item FX, `env` for Envelopes) directly in empty FX slots.
 * **Make Inactive / Track Commit:** Completely unload CPU processing threads while preserving full session structures.
 
 ---
 
-## ⚡ Mandatory System Requirements
+##  Mandatory System Requirements
 
 To ensure proper macro execution and state tracking, your system **must** meet the following conditions:
 
@@ -71,7 +71,7 @@ To ensure proper macro execution and state tracking, your system **must** meet t
 
 ---
 
-## 🎹 Essential Keyboard Shortcuts
+##  Essential Keyboard Shortcuts
 
 | Action | macOS Shortcut | Windows Shortcut |
 | :--- | :--- | :--- |
@@ -85,14 +85,14 @@ To ensure proper macro execution and state tracking, your system **must** meet t
 
 ---
 
-## 📄 User Manual & Documentation
+##  User Manual & Documentation
 
 For an in-depth breakdown of system routing, surround configuration, track freezing, and beta constraints, please refer to the included PDF manual:
 * [`pro_per_user_manual_beta_1_7_83.pdf`](docs/pro_per_user_manual_beta_1_7_83.pdf)
 
 ---
 
-## 👥 Credits & Acknowledgments
+##  Credits & Acknowledgments
 
 Created with love by **AMK**.
 * Special thanks to the REAPER scripting community (**MPL**, **SWS team**, **Cockos**).
