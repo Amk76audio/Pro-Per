@@ -7,7 +7,7 @@
 
 > **Pro tools done right, with REAPER ;-)**
 > 
-> *Pro Per is not just an aesthetic GUI skin for REAPER 7. It is a deep functional overhaul designed to bring the missing historical workflows of Pro Tools Ultimate directly into REAPER's rock-solid engine.*
+> *Pro Per is not just an aesthetic GUI skin for REAPER 7. It is a deep functional overhaul designed to bring the missing historical workflows of Pro Tools directly into REAPER's rock-solid engine.*
 
 ---
 
@@ -27,7 +27,7 @@ Watch the official overview video to see **Pro Per** in action:
 | Floating Mixer | 
 ![AM Floating Mixer](docs/Floating_Mixer.png) |
 | Emulated True QuickPunch (Lanes) |
-| ![QuickPunch Lanes](docs/QuickPunch_lanes.png) |
+| ![QuickPunch Lanes](docs/QuickPunch.png) |
 | Perfect Timing (Beat Detective Integration) |
 |![Audio Quantizer](docs/Freeze.png) |
 
