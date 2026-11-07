@@ -79,6 +79,7 @@ To ensure proper macro execution and state tracking, your system **must** meet t
 | **New Track Terminal** | `Cmd + Shift + N` | `Ctrl + Shift + N` |
 | **Duplicate Tracks** | `Cmd + Ctrl + \` | `Ctrl + Start + \` |
 | **New Lane (Playlist)** | `Option + \` | `Alt + \` |
+| **Duplicate Lane (Playlist)** | `Ctrl + \` | `Ctrl + \` |
 | **Spot Dialog** | `F3` | `F3` |
 | **Smart Tool** | `Alt + F8` | `Alt + F8` |
 | **Beat Detective (Perfect Timing)**| `Cmd + 8` | `Ctrl + 8` |
@@ -111,7 +112,7 @@ To protect the ongoing development of the custom Lua scripting engine and mainta
 If you want to try the configuration, test the Pro Tools workflow engine inside REAPER 7, or report feedback:
 
 1. Send a Direct Message (DM) on Instagram: **[@andreamk76](https://instagram.com/andrea_mk76)**
-2. Mention your main use case (e.g., Music Production, Film Post-Production, Tracking/Editing).
+2. Mention your main use case (e.g., Music Production, Film Post-Production, Tracking/Editing), and your OS.
 3. You will receive the direct download link for the full configuration package and installation guide.
 
 ---
